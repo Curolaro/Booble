@@ -1,0 +1,7 @@
+# código Python simples yipiii
+def saudacao(nome):
+    return f"Olá, {curo}! Bem-vindo ao repositório do GitHub."
+
+if __name__ == "__main__":
+    nome_usuario = input("curolaro: ")
+    print(saudacao(nome_usuario))
